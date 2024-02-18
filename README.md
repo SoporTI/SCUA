@@ -1,3 +1,5 @@
+# Sistemas operativos y tú: Convertirse en un usuario avanzado
+
 En este curso, a través de una combinación de conferencias de video, demostraciones y prácticas, aprenderás acerca de los componentes principales de un sistema operativo y cómo realizar tareas críticas tales como administrar software y usuarios, y configurar hardware. Vamos a terminar con un ejemplo de cómo puede aparecer este contenido en una entrevista.
 
 Al final de este curso, podrás:
