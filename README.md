@@ -10,3 +10,6 @@ Al final de este curso, podrás:
 - comprender cómo funcionan los procesos del sistema y cómo gestionarlos.
 - trabajar con registros del sistema y herramientas de conexión remota.
 - utilizar el conocimiento del sistema operativo para solucionar problemas comunes en un rol de Especialista de soporte de TI.
+
+> [!IMPORTANT]  
+> Faltan los videos de cada modulo.
