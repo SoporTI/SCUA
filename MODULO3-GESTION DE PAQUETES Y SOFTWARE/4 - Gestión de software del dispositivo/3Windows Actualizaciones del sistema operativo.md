@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/24uRjvDtK_w)
+
 Hemos llegado a la última lección
 de este módulo, donde vamos a ver el software principal,
 el sistema operativo. Ya hemos visto cómo instalar y mantener aplicaciones como un procesador de texto,

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/BraFakC_KNQ)
+
 Mi nombre es Jessica Thera y soy ingeniera de sistemas
 en la organización de confiabilidad de sitios. [MÚSICA] Había estado hablando con una de mis mentores,
 y le dije que me encantaría tener un trabajo ese verano, me encantaría trabajar con computadoras. Y ella dijo: "Bueno, sabes, tengo esta oportunidad,

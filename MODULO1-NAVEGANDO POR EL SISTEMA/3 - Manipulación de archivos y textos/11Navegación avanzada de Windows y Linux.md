@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/XPJ9wIX56Dw)
+
 Aprendiste muchos comandos y herramientas que te ayudarán a sentar una base sólida para el trabajo de soporte de TI. Hay muchos otros comandos que aún no viste. No te preocupes, vamos a llegar a ellos a medida que aparezcan.
 
 A medida que avances en tu carrera, podrías descubrir que las herramientas y los comandos que estás usando ya no son suficientemente poderosos o eficientes. Tal vez quieras buscar a través de archivos usando patrones más complejos. Para eso, necesitarás conocer herramientas como las expresiones regulares. Las expresiones regulares te ayudan a hacer una selección basada en patrones avanzados.

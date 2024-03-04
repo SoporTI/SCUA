@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/L7ryCNPceaI)
+
 Ya creamos algunos archivos y directorios, pero necesitamos un par más. No queremos crearlos desde cero. Hagamos copias en su lugar.
 
 En la GUI de Windows, todo lo que necesitas hacer es clic derecho, copiar y luego pegar. También puedes usar teclas de acceso rápido si lo deseas. Una tecla de acceso rápido es un método abreviado de teclado que realiza algún tipo de tarea. En Windows, la tecla de acceso rápido para copiar es Ctrl-C, y para pegar, es Ctrl-V.

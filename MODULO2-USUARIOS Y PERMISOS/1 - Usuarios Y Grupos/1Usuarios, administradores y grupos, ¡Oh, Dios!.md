@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/pXchcKdJ9nk)
+
 # Hola de nuevo
 
 Ahora que aprendimos a navegar por los sistemas operativos Windows y Linux, comencemos a configurar nuestra computadora para que la usen otras personas. Como especialista en soporte de TI, serás responsable de las máquinas de otras personas. La gente dependerá de ti para que los ayudes a configurar sus máquinas, solucionar sus problemas, etc.

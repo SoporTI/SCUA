@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/sP2Oo_UXRdM)
+
 ¿Cómo podemos compartir archivos y datos a través de la red
 en una computadora con Windows? Da la casualidad de que el programa PuTTY
 del que hablamos hace un par de lecciones

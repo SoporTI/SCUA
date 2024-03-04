@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/zk24bQ3yeb4)
+
 En Linux, los procesos tienen
 una relación principal/secundario. Esto significa que cada proceso que inicias
 viene de otro proceso. Veamos este comando. El comando less sería el proceso principal

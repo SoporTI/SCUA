@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/RTI8qguASBs)
+
 La capacidad de hacer conexiones remotas
 es igualmente útil en computadoras con Windows, pero no hay un cliente de OpenSSH
 para el SO Windows, al menos no todavía. Aunque eso está cambiando. Microsoft anunció

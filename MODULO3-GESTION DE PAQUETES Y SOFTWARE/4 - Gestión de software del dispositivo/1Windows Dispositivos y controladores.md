@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Tlm6Z7F5a1Q)
+
 Una parte importante del software
 de la que hemos hablado, pero que realmente no vimos en acción,
 se conoce como controlador. Recuerda que un controlador se utiliza para ayudar

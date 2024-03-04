@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/lVlfh_8Lnwc)
+
 Soy Ben Fried,
 director de TI de Google y vicepresidente de la empresa. [MÚSICA] Dirijo un equipo que es responsable de la tecnología que los Googlers usan
 para hacer su trabajo. Podrían ser cosas como la laptop

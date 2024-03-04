@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/DdQ0i11jJ6E)
+
 Un tipo de paquete
 del que todavía no hablamos no es en realidad un paquete,
 es un archivo Un archivo se compone de uno o más archivos que están comprimidos

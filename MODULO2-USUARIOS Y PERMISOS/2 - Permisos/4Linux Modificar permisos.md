@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/TtLEUFjyJ2M)
+
 En Linux, cambiamos los permisos usando el comando chmod,
 o "cambio de modo". Primero, elige el conjunto de permisos
 que quieres cambiar. El propietario, marcado por una "u",

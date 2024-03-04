@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/NT-4My292PA)
+
 Para leer un archivo simple en bash, también podemos usar el comando cat que se usa para ver un documento. Vamos a ver el archivo important_document. El comando cat es similar al comando cat de Windows, ya que no hace un gran trabajo en la visualización de archivos de gran tamaño. En su lugar, usamos otro comando, less. Less hace algo similar a lo que hace more en Windows, pero tiene más funcionalidad.
 
 Curiosidad: hay un comando de bash que se llama more, pero viene cayendo en desuso lentamente a raíz de less. Literalmente, es un caso de "menos es más". De manera similar a more, cuando usamos less pasamos a una shell interactiva.

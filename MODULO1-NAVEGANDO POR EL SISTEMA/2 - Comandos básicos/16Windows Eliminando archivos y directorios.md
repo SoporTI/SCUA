@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/rZppVn6CO6I)
+
 Muy bien, ahora que aprendimos
 a listar, crear y mover archivos en directorios,
 vamos a empezar a eliminarlos.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/82w5ScR2EYA)
+
 Ahora que aprendimos los conceptos básicos de la navegación de archivos y directorios, vamos a aprender cómo podemos visualizar y editar archivos, buscar texto dentro de archivos y más.
 
 En la GUI de Windows, si queremos abrir un archivo y ver su contenido, podemos hacer doble clic en el archivo. Dependiendo del tipo de archivo, se abrirá en una aplicación predeterminada. En Windows, los archivos de texto se abren en una aplicación llamada Bloc de notas. Pero podemos cambiar esto si queremos. Para cambiar la aplicación predeterminada que abre archivos, haz clic derecho y luego clic en Properties (Propiedades). En Open with (Abrir con), podemos cambiar la aplicación a otro editor de texto, como WordPad.

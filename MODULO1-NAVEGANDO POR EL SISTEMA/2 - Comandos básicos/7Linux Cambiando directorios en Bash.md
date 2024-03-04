@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/C3F1pwP8ozY)
+
 Hagamos lo mismo en bash. Desde nuestro escritorio, vamos a navegar a la carpeta de documentos. Los comandos que usamos antes en PowerShell son exactamente los mismos aquí en bash.
 
 Imprimir directorio de trabajo, o `pwd`, nuevamente nos muestra la ruta de acceso en la que estamos. Sí, se ve bien. Actualmente estamos en nuestro directorio Desktop, que puedes ver a partir de `/home/cindy/Desktop`.

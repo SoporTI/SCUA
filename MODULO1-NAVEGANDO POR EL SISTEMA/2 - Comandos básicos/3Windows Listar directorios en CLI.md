@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/g8SE5JtAu3A)
+
 Es importante saber que hay un par de interfaces de línea de comandos, o CLI, disponibles en Windows. La primera se llama símbolo del sistema o `command.exe`. La segunda es PowerShell o `powershell.exe`.
 
 El símbolo del sistema existe desde hace mucho tiempo. Es muy similar al símbolo del sistema que se usaba en MS DOS. Como PowerShell admite casi todos los mismos comandos que el Símbolo del sistema y muchos, muchos más, vamos a usar PowerShell para los ejercicios en este módulo.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/F1jZaNM4U7k)
+
 Al igual que en Windows, tenemos tres flujos de E/S diferentes: salida estándar, entrada estándar y error estándar. ¿Recuerdas el ejemplo estándar en la última lección? Bueno, el mismo concepto se aplica en Linux. Hacemos `echo` del texto "woof" aquí, pero en lugar de enviarlo a nuestra pantalla en forma predeterminada, vamos a redirigir la salida a un archivo usando el operador de redireccionamiento estándar. Vamos a verificarlo... y ahí está. Esto sobrescribe cualquier archivo llamado `dog.text` con el contenido "woof". Si no queremos sobrescribir un archivo existente, podemos utilizar el operador "agregar" o `>>`. Entonces, `echo "woof" >> dog.txt`. Podríamos verificarlo. Ahí está.
 
 Un operador de redireccionamiento del que hablamos en la lección de Windows, pero del que no mostramos un ejemplo, era el operador de redireccionamiento de entrada estándar. El operador de redireccionamiento de entrada estándar se marca con un signo "menos que" (`<`). En lugar de obtener entrada desde el teclado, podemos obtener entrada de archivos como este. Este comando es exactamente el mismo que `cat file_input`. La diferencia aquí es que no estamos usando más nuestra entrada de teclado, estamos usando el archivo como entrada estándar.

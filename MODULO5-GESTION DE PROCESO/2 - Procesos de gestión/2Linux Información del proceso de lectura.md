@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/K4cGRhflMBM)
+
 Muy bien, ahora hablemos sobre cómo ver los procesos
 que se ejecutan en nuestro sistema en Linux. Usaremos el comando ps.
 Sigamos adelante, ejecutémoslo con el indicador -x

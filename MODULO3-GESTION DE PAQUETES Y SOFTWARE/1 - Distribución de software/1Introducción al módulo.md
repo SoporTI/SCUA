@@ -1,1 +1,4 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/tEIECcywFE0)
+
 ¡Felicitaciones! Llegaste a la mitad del curso. Ya aprendiste a navegar por los sistemas de archivos de Windows y Linux, también aprendiste a administrar usuarios y grupos, y los fundamentos de los permisos y accesos. Buen trabajo. A continuación, vamos a aprender sobre paquetes y los principales administradores de paquetes para Windows y Linux. Instalar y mantener paquetes es algo que harás de forma rutinaria dentro de tus funciones de soporte de TI. Así que deberías estar familiarizado con la forma en que esto se hace en los sistemas operativos Windows y Linux. Hagámoslo.

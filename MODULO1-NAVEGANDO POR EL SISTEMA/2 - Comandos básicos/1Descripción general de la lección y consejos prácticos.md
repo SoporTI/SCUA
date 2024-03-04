@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/RlbvvYyVbj0)
+
 Ya dimos nuestros primeros pasos en los SO Windows y Linux en el primer curso de este programa. Ahora, vayamos directamente a aprender cómo llevar a cabo todas las tareas de navegación comunes de ambos sistemas operativos.
 
 En el caso de Windows, vamos a aprender a navegar por el sistema operativo usando la GUI y la interfaz de línea de comandos, o CLI. En el caso de Linux, solo nos centraremos en aprender la línea de comandos. La interfaz de línea de comandos en Linux se llama shell y el lenguaje que usaremos para interactuar con la shell se llama bash.

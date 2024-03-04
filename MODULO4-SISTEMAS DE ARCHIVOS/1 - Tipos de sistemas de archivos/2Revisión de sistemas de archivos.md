@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/XTgLW6LkZL0)
+
 Tal vez recuerdes que presentamos
 el concepto de un sistema de archivos en el curso Fundamentos de soporte técnico. Veamos un repaso. Un sistema de archivos sirve para rastrear archivos
 y su almacenamiento en un disco. Sin un sistema de archivos, el sistema operativo

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/TUpYzLyrA7o)
+
 Antes de que incorporemos un sistema de archivos a un disco,
 vamos a hacer un resumen de los componentes del disco que te permiten almacenar
 y recuperar archivos. Un disco de almacenamiento se puede dividir

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/UxXZS8Qk0-M)
+
 Hasta ahora, en este curso hemos estado usando alias de comando en PowerShell. PowerShell es un lenguaje de comandos complejo, poderoso y muy sólido también. Pudimos usar alias comunes, que son exactamente los mismos que sus equivalentes de Linux.
 
 Pero de aquí en adelante, tendremos que implementar algunas funciones avanzadas de línea de comandos, por lo que tendremos que mirar comandos reales de PowerShell. Ya viste un ejemplo de un verdadero comando de PowerShell, Get-Help, que se usa para ver más información sobre los comandos.

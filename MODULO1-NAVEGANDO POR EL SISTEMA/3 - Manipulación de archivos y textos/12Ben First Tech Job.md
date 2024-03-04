@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/gJgKrFrymSs)
+
 Tengo que decir, creo, que en retrospectiva, tuve mucha suerte. Yo había empezado incluso antes de ser adolescente, aprendiendo solo, sin computadoras y sin siquiera tener acceso a ellas. Y en cierta forma, al final de esa era, cuando yo era un joven adolescente, me las arreglé para convencer al dueño de una librería para que me dejara... Necesitaba comprar una computadora. Y yo se la programaría para automatizar su negocio de libros de texto.
 
 Nunca había hecho eso antes, claro. Nunca había puesto mis manos en ese tipo de computadora antes. Nunca había escrito un programa así antes. Y el hombre me creyó y lo hizo, me contrató. Ese fue un trabajo de medio tiempo que mantuve, en realidad, hasta los 25 años. Así que durante unos 11 años, tuve este trabajo de tiempo parcial en el que automatizaba el negocio de libros de texto de una librería del vecindario. Y lo que es tan increíble, y que estoy muy agradecido por eso, es que este hombre tuvo esta fe en mí y puso esta confianza en mí. Entonces me sorprende aún más que todo haya salido bien. Y estuve todos esos años haciéndolo, y ayudé a su negocio y todo eso. Pero fue una gran experiencia. Y fue una gran manera de lanzar mi carrera temprana y real como programador profesional.

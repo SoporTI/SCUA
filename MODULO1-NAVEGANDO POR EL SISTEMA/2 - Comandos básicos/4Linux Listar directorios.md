@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/7ob5oF5mFi8)
+
 En Linux, el directorio principal del que todos los demás derivan se llama directorio raíz. La ruta de acceso al directorio raíz se marca con una barra diagonal. Un ejemplo de una ruta de acceso en Linux que comienza desde el directorio raíz es `/home/cindy/Desktop`. Al igual que `c:\Users\cindy\Desktop` en Windows.
 
 Sigamos adelante y veamos qué hay debajo del directorio raíz. Vamos a usar el comando `ls` o "listar contenidos del directorio". También debemos darle a este comando la ruta de acceso al directorio que queremos ver. Si no indicamos la ruta de acceso, de forma predeterminada nos mostrará el directorio actual en el que estamos. Entonces: `ls /`.

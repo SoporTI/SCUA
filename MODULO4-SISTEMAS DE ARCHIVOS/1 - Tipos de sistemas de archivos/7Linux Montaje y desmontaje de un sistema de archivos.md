@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/dK3nTewEFiw)
+
 Para comenzar a interactuar con el disco, necesitamos montar el sistema de archivos
 en el directorio. Podrías preguntarte
 por qué no podemos hacer cd en /dev/sdb. Ese es el dispositivo de disco, ¿no? Lo es,

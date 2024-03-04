@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/r6MuPUvj2Ug)
+
 ¿Recuerdas que en el primer curso de nuestro programa,
 Fundamentos de soporte técnico, presentamos el concepto de registros? Un registro es como el diario de tu computadora,
 registra los eventos que suceden en tu sistema. ¿Qué tipo de eventos?

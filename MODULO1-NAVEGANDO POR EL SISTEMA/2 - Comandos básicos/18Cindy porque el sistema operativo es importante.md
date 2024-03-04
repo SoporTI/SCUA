@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/3HV78HzhdL4)
+
 Sabía lo suficiente como para meter la pata y creo que eso es lo que me llevó
 a mi función de administradora de sistemas en Linux. Cuando obtuve el puesto, trabajaba con personas
 que eran increíblemente brillantes. Incluso había páginas de Wikipedia

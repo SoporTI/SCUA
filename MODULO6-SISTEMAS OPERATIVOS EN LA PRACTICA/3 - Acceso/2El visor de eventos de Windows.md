@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/MbPEFSbxS84)
+
 Así como podemos anotar
 los eventos de nuestra vida en un diario, los eventos también se registran en nuestras máquinas. En Windows,
 los eventos registrados por el sistema operativo se guardan en una aplicación

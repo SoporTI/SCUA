@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Se7BkGeiCMg)
+
 En Linux, los metadatos y los archivos se organizan
 en una estructura llamada inodo. Los inodos son similares
 a los registros MFT del NFTS de Windows. Almacenamos inodos en una tabla de inodos y nos ayudan a gestionar los archivos

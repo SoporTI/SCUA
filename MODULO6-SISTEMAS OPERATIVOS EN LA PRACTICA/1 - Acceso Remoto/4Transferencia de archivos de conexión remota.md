@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/hR661bi-as4)
+
 ¿Alguna vez intentaste enviar
 un archivo a un compañero de trabajo? ¿Qué métodos usas? ¿Lo adjuntas a un correo electrónico y lo envías,
 o copias el archivo a una unidad USB y luego transfieres el archivo de esa manera? Hay muchas formas de transferir archivos. En esta lección, vamos a hablar de un método

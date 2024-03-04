@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/VlnAwNlTvwE)
+
 Cuando abras PowerShell por primera vez, por lo general, estarás en tu directorio principal. Tu símbolo de sistema te muestra en qué directorio estás actualmente, pero también hay un comando que te dirá dónde estás. `pwd`, o "imprimir directorio de trabajo", te indica en qué directorio te encuentras actualmente.
 
 Si queremos cambiar el directorio en el que estamos, podemos usar el comando `cd` o "cambiar directorio". Para usar este comando, también necesitaremos especificar la ruta de acceso a la que queremos ir. Recuerda, esta ruta puede ser absoluta, lo que significa que comienza a partir de esta letra de unidad y describe la ruta completa. Por otro lado, puede ser relativa, es decir, que solo usamos parte de la ruta para describir cómo llegar a donde queremos ir en relación con nuestra ubicación actual. Te mostraré lo que quiero decir en un minuto.

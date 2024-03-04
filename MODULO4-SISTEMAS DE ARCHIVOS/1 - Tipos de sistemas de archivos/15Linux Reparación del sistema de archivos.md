@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/LVRkeEhIhD4)
+
 Para tratar de reparar un sistema de archivos manualmente en Linux,
 también puedes utilizar el comando fsck o "verificar sistema de archivos". Sólo asegúrate de que el sistema de archivos
 no esté montado. No ejecutaré este comando,

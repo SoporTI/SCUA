@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/rNoGp2nfuxI)
+
 Los paquetes de software suelen depender
 de otras piezas de código para poder funcionar. Supongamos que estás instalando
 un juego en tu computadora Windows. Quizás sea necesario que el programa deba hacer

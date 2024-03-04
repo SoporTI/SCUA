@@ -1,1 +1,4 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/nlojD0gGatA)
+
 Ahora que formateaste tu nuevo sistema de archivos, nos queda un paso más. Tienes que montar tu sistema de archivos en una unidad. En TI, cuando nos referimos a montar algo como un sistema de archivos o un disco duro, significa que estamos haciendo que algo sea accesible para la computadora. En este caso, queremos hacer que nuestra unidad USB sea accesible, para eso, montamos el sistema de archivos en un disco. Windows hace esto automáticamente por nosotros. Tal vez notaste esto si conectas una unidad USB: aparecerá en tu lista de unidades y puedes comenzar a usarla de inmediato. Cuando termines de usar la unidad, solo tendrás que expulsarla de forma segura o, básicamente, desmontar la unidad haciendo clic derecho y seleccionando Expulsar. Hablaremos de por qué esto es importante en una lección posterior.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/hJ_q47jM2N4)
+
 En una lección anterior, hablamos sobre el peligro
 de desconectar un dispositivo USB sin expulsarlo o desmontarlo
 de la computadora. Tal vez hayas visto

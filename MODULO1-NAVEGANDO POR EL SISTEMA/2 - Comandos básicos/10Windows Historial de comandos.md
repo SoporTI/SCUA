@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/gJu6rDOTKh8)
+
 Retomando donde quedamos en el último video,
 digamos que queremos crear un par de directorios,
 `my_cool_folder2` y `my_cool_folder3`. Podríamos escribir

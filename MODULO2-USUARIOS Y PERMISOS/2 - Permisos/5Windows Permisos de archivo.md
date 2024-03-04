@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/NajbyuL2LLA)
+
 Tal vez te diste cuenta de que, cuando estuvimos
 mirando los permisos en la GUI antes, hay una casilla de verificación en la lista de permisos
 para permisos especiales. Los permisos que estuvimos mirando

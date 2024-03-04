@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/cQ08MdFW0zY)
+
 ¡Guau, increíble trabajo!
 Viste muchísima información en este curso. Aprendiste a navegar
 los SO Windows y Linux, el funcionamiento

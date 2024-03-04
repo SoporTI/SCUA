@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/s10pWKrb7GI)
+
 Hasta aquí, analizamos cómo leer y modificar archivos. Pero aún no vimos cómo editar el contenido de los archivos. Alerta de spoiler: estás a punto de aprenderlo.
 
 Puedes editar archivos de texto en el Bloc de notas que usamos anteriormente para ver un archivo de texto. El Bloc de notas es ideal para hacer cosas básicas de edición. Pero para hacer cambios en archivos de configuración, secuencias de comandos, y en otros archivos de texto complejos, tal vez desees algo con más funciones.

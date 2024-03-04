@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/ADrxNo6oxFM)
+
 Probablemente tuviste que buscar palabras en un documento de texto antes, ya sea para encontrar y reemplazar palabras o para algo más. La mayoría de los editores de texto trabajan de la misma manera cuando se trata de encontrar palabras en el documento. Todo lo que necesitas hacer es Ctrl-F para buscar la palabra. Bastante fácil, ¿verdad?
 
 Pero ¿y si querías ver si una palabra estaba presente en varios archivos? Hay algunas maneras en que podemos hacer esto. Vamos a hablar de las opciones de la GUI y luego pasaremos a PowerShell para aprender a buscar palabras desde la CLI.

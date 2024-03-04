@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/sj248ceKj6U)
+
 Ya aprendiste los conceptos básicos de computación y terminaste de aprender sobre los bits y bytes de las redes de computadoras. Ahora es el momento de navegar por los sistemas operativos, o SO, Windows y Linux. Pero antes de ver estos temas en profundidad, me gustaría presentarme. Nos conocimos en el primer curso. Pero para aquellos de ustedes que podrían haber olvidado o salteado esas lecciones, mi nombre es Cindy Quach, y soy ingeniera de confiabilidad de sitios en Google. El equipo en el que trabajo es responsable de la gestión y el soporte de toda el inventario móvil interno de Google: Android OS, iOS, and chrome OS.
 
 Antes de centrarme en soluciones para dispositivos móviles, fui administradora de sistemas en el equipo de Linux, y antes de eso, fui ingeniera de operaciones. Pero, como muchos de los Googlers que conociste y que conocerás, comencé mi carrera como especialista en soporte de TI. Trabajo en TI desde hace 7 años.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/kHfH_4J16kE)
+
 En esta lección, vamos a hablar
 de una parte importante de la computación, que hace que trabajar
 en soporte de TI sea un poco más fácil. En realidad, les hace las cosas mucho más fáciles

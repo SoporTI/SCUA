@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/l_THDqQDt_Y)
+
 En bash se puede usar exactamente
 el mismo comando de Windows para copiar archivos. Veamos este directorio.
 

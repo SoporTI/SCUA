@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/P4uVPadSwrg)
+
 Imagina que estás empezando un videojuego
 que se toma su tiempo para procesar sus gráficos. Decides que no quieres jugar más, lo que te deja con algunas opciones. Puedes esperar a que termine de cargar
 y luego salir del juego desde el menú o puedes interrumpir el proceso por completo,

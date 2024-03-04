@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/B4WPVT8B9pc)
+
 En Linux, hay muchos editores de texto populares que podemos usar para modificar archivos. No tendremos tiempo suficiente para abarcar todos. Vamos a enfocarnos en un editor que se puede encontrar en casi cualquier distribución: Nano. Nano es un editor de texto extremadamente ligero pero útil. Lo incluimos en las lecturas complementarias después de este video. Compruébalo.
 
 Para editar un archivo en Nano, simplemente escribe Nano y luego el nombre del archivo. Una vez que hagamos eso, pasaremos al programa Nano. Desde aquí, podemos comenzar a editar contenido como haríamos normalmente con cualquier otro editor de texto.

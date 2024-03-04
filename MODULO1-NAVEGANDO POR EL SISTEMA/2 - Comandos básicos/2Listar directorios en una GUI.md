@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/1dT49m5Ms-A)
+
 En los sistemas operativos, los archivos y carpetas o los directorios se organizan en un árbol de directorios jerárquico. Tienes un directorio principal que se ramifica y contiene otros directorios y archivos. A la ubicación de estos archivos y directorios la llamamos ruta de acceso.
 
 La mayoría de las rutas de acceso en Windows se ven así: `C:\Users\cindy\Desktop`. En Windows, los sistemas de archivos se asignan a letras de unidad que se ven así: `C:`, o `D:`, o `X:`. Cada letra de unidad es un sistema de archivos. Recuerda que los sistemas de archivos se usan para rastrear los archivos en nuestra computadora. Cada sistema de archivos tiene un directorio raíz que es el superior para todos los demás directorios en ese sistema de archivos. El directorio raíz de `C:` se escribirá `C:\`, y el directorio raíz de `X:` se escribirá `X:\`.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Ov3mPNia3HA)
+
 De acuerdo, conocimos un montón de herramientas individuales y muy poderosas. Son los comandos de uso diario más importantes que necesitarás para trabajar en PowerShell. Ahora, vamos a aprender cómo combinar estas herramientas para hacerlas aún más poderosas.
 
 Ejecutemos el siguiente comando en nuestro directorio Desktop (Escritorio). Luego, lo desglosaremos poco a poco. Voy a ejecutar `cd` en mi directorio Desktop. de acuerdo, uso `echo woof > dog.txt`. Hará un `ls` para revisar nuestro escritorio, y ahora veremos un archivo llamado `dog.txt`. Dentro de ese archivo, deberíamos ver la palabra "woof". Oh, ahí está.

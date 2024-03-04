@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/6SD6oe586T4)
+
 Para cambiar tu contraseña en Linux,
 todo lo que debes hacer es ejecutar el comando passwd o contraseña. Intentemos cambiar mi contraseña. Cuando estableces una contraseña,
 se la codifica con seguridad, luego se la guarda en un archivo especial con privilegios

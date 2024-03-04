@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/AzotBy4c8g8)
+
 Hola de nuevo. Completaste cuatro módulos
 y quedan dos más. Gran trabajo hasta ahora. En la última lección,
 aprendimos a particionar y configurar discos con sistemas de archivos

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/cz3zmhJzhIo)
+
 Ahora que ya vimos cómo listar directorios y cambiar de directorio, vamos a aprender a agregar nuevos directorios. Podemos hacer esto en la GUI de una manera muy simple. Clic derecho, New (Nuevo), luego Folder (Carpeta), y ¡boom!, tenemos una nueva carpeta.
 
 Ahora, ¿y si quisiéramos hacer esto en la CLI? En PowerShell, el comando para crear un nuevo directorio se llama `mkdir` o "crear directorio". Vamos a crear un nuevo directorio llamado `my_cool_folder` y ahí está. Eso fue fácil.

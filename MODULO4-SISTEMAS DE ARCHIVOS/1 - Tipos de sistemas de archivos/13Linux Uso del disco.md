@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/iPpLndeKcU4)
+
 En la última lección, aprendimos a ver la utilización del disco
 en tu computadora con Windows. En Linux,
 lo hacemos con el comando du -h. El comando du o "uso del disco" nos muestra

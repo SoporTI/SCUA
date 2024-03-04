@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/lkkyQRSVG3Y)
+
 El mismo comando exacto
 se puede utilizar para Linux. El comando `mv`, o "mover", puede cambiar el nombre y
 mover archivos en directorios. Lo mismo se aplica aquí.

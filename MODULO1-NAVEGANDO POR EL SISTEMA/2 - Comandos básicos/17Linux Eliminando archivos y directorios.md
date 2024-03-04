@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/vI-j3tIqc8s)
+
 Para eliminar archivos de Linux,
 al igual que en Windows, podemos usar el comando `rm` o eliminar. Vamos a eliminar este archivo `text1`. Ya no está. Al igual que en Windows, recibimos un mensaje si intentamos eliminar
 algo que no deberíamos poder. Vamos a eliminar este archivo, `self_destruct_button`. Impresionante,
